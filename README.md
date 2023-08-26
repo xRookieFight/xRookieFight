@@ -10,14 +10,14 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on **NeedMCPE**
+🔭 I’m currently working on **DeathMCPE**
   
-🌱 I’m currently learning : Python
+🌱 I’m currently learning : **Lua**
 
 
 
 ## 🌐Socials
- [![Discord](https://img.shields.io/badge/Discord-%239146FF.svg?logo=Discord&logoColor=white)](https://discord.gg/xBmNKKVTk4) 
+ [![Discord](https://img.shields.io/badge/Discord-%239146FF.svg?logo=Discord&logoColor=white)](https://discord.gg/h5yegyXy84) 
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=xRookieFight&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
