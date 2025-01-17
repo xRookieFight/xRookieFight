@@ -10,7 +10,7 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on **DeathMCPE**
+🔭 I’m currently working on **nothing.**
   
 🌱 I’m currently learning : **Lua**
 
