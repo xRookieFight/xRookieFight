@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hi, I'm xRookieFight
+  Hi, I'm Mert
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
@@ -10,7 +10,7 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on **nothing.**
+🔭 I’m currently working on **ErilaNetwork.**
   
 🌱 I’m currently learning : **Lua**
 
