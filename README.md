@@ -1,38 +1,26 @@
-<h3 align="center">
-  Hi, I'm Mert
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">Hello there, I'm Mert 👋</h1>
+<br>
 <p align="center">
-  <a href="https://github.com/xRookieFight"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+profile!"></a>
+  Hi, I'm Mert, a Backend Developer from Turkiye.
+  <br>
+  💻 I love writing code and learning everything about it.
+  <br>
+  🔬 I’m currently working for <a href="https://gearsmc.org">GearsMC Network</a>.
+  <br>
+  📚 I’m currently learning Kotlin language.
+  <br>
+  📫 You can contact me from <b>contact@gearsmc.org</b>.
 </p>
 
----
-<div align="center">
-  
-# 💫About Me :
-🔭 I’m currently working on **nothing.**
-  
-🌱 I’m currently learning : **Lua**
+<br>
 
+<a title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=xRookieFight&theme=gotham&hide_border=false&include_all_commits=false&count_private=false"></a>
 
+<br>
 
-## 🌐Socials
- [![Discord](https://img.shields.io/badge/Discord-%239146FF.svg?logo=Discord&logoColor=white)](https://discord.gg/h5yegyXy84) 
+<a title="Go to Source"><img width="100%" height="50" src="http://ForTheBadge.com/images/badges/built-by-developers.svg"></a>
+<br>
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=xRookieFight&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xRookieFight&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xRookieFight&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xRookieFight&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-  
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
----
-![](https://komarev.com/ghpvc/?username=xRookieFight&label=Visitors+Count&color=brightgreen)
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xRookieFight&label=Visitors+Count&color=green">
+</p>
