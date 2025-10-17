@@ -5,11 +5,7 @@
   <br>
   💻 I love writing code and learning everything about it.
   <br>
-  🔬 I’m currently working for <a href="https://gearsmc.org">GearsMC Network</a>.
-  <br>
   📚 I’m currently learning Kotlin language.
-  <br>
-  📫 You can contact me from <b>contact@gearsmc.org</b>.
 </p>
 
 <br>
