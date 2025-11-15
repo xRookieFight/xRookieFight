@@ -30,17 +30,4 @@
 </div>
 <br>
 
-<p align="center">
-    <a href="https://github.com/xRookieFight">
-        <img alt="xRookieFight's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=xRookieFight&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-  <a href="https://github.com/xRookieFight"><img alt="xRookieFight's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xRookieFight&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
-</p>
-
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
-
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
