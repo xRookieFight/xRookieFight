@@ -18,11 +18,14 @@
 
   - 👯 I’m looking forward to collaborate on open source projects.
 
+  - 📩 You can contact me from **me@xrookiefight.com**.
+
   - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
   - ⚡ Coding fact: "There are over 700 different programming languages".
 
   - 💪🏼 My favorite quote is: "Great Developers never stop learning".
+  
    
 <br>
 <div align="center">
