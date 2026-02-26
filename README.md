@@ -48,25 +48,6 @@ I'm currently exploring opportunities outside the traditional Minecraft space to
 
 ---
 
-## 🛠️ Technical Skills
-
-### Languages
-
-* PHP
-* Java
-* Kotlin
-* C
-
-### Tools & Technologies
-
-* Reverse engineering with IDA
-* Docker & containerized environments
-* MySQL & backend data systems
-* Networking and protocol-level development
-* Large-scale open-source project maintenance
-
----
-
 ## 📫 Contact
 
 Interested in collaboration, projects, or technical discussions?
