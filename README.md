@@ -1,36 +1,74 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
-<h1 align="center">Hello there, I'm Mert 👋</h1>
-<p align="center">
-  <a href="https://github.com/xRookieFight">
-    <img src="https://komarev.com/ghpvc/?username=xRookieFight&color=blueviolet">
-</a>
-<a href="https://github.com/xRookieFight?tab=followers"><img src="https://img.shields.io/github/followers/xRookieFight?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
+# 👋 Hello, I'm xRookieFight
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br>
+I'm a software engineer and reverse engineer, passionate about building performant systems, scalable backend software, and developer-oriented infrastructure.
+My work focuses on understanding how systems behave internally - then rebuilding them better, faster, and cleaner.
 
-  - 🔭 Hi, I'm Mert, a Backend Developer from **Türkiye**.
+---
 
-  - 💻 I love writing code and learning everything about it.
+## 🚀 Open Source & Engineering
 
-  - 📚 I’m currently learning **Kotlin** language.
+Over the years, I've been deeply involved in open-source development, contributing to projects used across the Minecraft: Bedrock server ecosystem and beyond. I enjoy working on complex codebases where performance, architecture, and long-term maintainability matter.
 
-  - 👯 I’m looking forward to collaborate on open source projects.
+Projects I've contributed to or worked closely with include:
 
-  - 📩 You can contact me from **me@xrookiefight.com**.
+* **PowerNukkitX** - Feature-rich, highly customizable third-party server software for Minecraft: Bedrock Edition.
+* **AquaRelay** - Blazingly fast, lightweight, and easy to use Minecraft: Bedrock Edition proxy server written in PHP
+* **bedrock-rs** - Universal library for Minecraft Bedrock in Rust
 
-  - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
+My main interests include API design, networking internals, and building systems that developers actually enjoy working with.
 
-  - ⚡ Coding fact: "There are over 700 different programming languages".
+---
 
-  - 💪🏼 My favorite quote is: "Great Developers never stop learning".
-  
-   
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
+## 🧠 Engineering Philosophy
 
-<a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
+I like solving problems at multiple layers:
+
+* High-level architecture design
+* Low-level performance optimization
+* Protocol analysis and debugging
+* Reverse engineering closed binaries to understand system behavior
+
+Good software, to me, means **predictable performance, clean abstractions, and minimal complexity**.
+
+---
+
+## 💼 Experience
+
+Most of my experience comes from developing and maintaining multiplayer server technologies and backend systems operating at scale.
+
+Areas I've worked in:
+
+* Multiplayer server architecture
+* Network protocol handling
+* Developer tooling & frameworks
+* Performance debugging and optimization
+* Infrastructure supporting high concurrent workloads
+
+I'm currently exploring opportunities outside the traditional Minecraft space to apply these skills to broader engineering challenges.
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+
+* PHP
+* Java
+* Kotlin
+* C
+
+### Tools & Technologies
+
+* Reverse engineering with IDA
+* Docker & containerized environments
+* MySQL & backend data systems
+* Networking and protocol-level development
+* Large-scale open-source project maintenance
+
+---
+
+## 📫 Contact
+
+Interested in collaboration, projects, or technical discussions?
+
+**Email:** [me@xrookiefight.com](mailto:me@xrookiefight.com)
