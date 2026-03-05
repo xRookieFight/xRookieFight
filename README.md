@@ -53,3 +53,5 @@ I'm currently exploring opportunities outside the traditional Minecraft space to
 Interested in collaboration, projects, or technical discussions?
 
 **Email:** [me@xrookiefight.com](mailto:me@xrookiefight.com)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xRookieFight&bg_color=0D1117&color=A78BFA&line=A78BFA&point=CDD6F4&area=true&hide_border=true"/>
