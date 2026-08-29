@@ -12,7 +12,7 @@ Over the years, I've been deeply involved in open-source development, contributi
 Projects I've contributed to or worked closely with include:
 
 * **PowerNukkitX** - Feature-rich, highly customizable third-party server software for Minecraft: Bedrock Edition.
-* **AquaRelay** - Blazingly fast, lightweight, and easy to use Minecraft: Bedrock Edition proxy server written in PHP
+* **Vedrock** - Lightweight Minecraft: Bedrock Edition server software written in V
 * **bedrock-rs** - Universal library for Minecraft Bedrock in Rust
 
 My main interests include API design, networking internals, and building systems that developers actually enjoy working with.
